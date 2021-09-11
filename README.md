@@ -1,3 +1,3 @@
 # Current Status
-My Training Completed
-I am waiting for the project
+My Training is Completed
+Now,I am waiting for the project
